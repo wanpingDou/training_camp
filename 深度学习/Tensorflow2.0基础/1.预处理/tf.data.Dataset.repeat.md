@@ -25,7 +25,7 @@ tf.data.Dataset.repeat(
 
 - **Dataset**: A `Dataset`.
 
-**案例1：**
+**案例：**
 
 ```python
 import tensorflow as tf
